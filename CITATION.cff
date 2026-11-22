@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Cite the original dataset and paper in README.md, and identify this repository commit as the secondary processing version."
+title: "Plains zebra: drought behavior secondary-analysis dataset"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-22
+authors:
+  - name: "usman-sarwar-rajput (repository compilation and maintenance)"
+repository-code: "https://github.com/usman-sarwar-rajput/zebra-drought-behavior-dataset"
+license: [CC0-1.0, MIT]
+references:
+  - type: data
+    title: "Original source dataset; full investigator attribution in README.md"
+    doi: "10.5061/dryad.9cnp5hr2g"
+  - type: article
+    title: "Original study; full reference in the accompanying manuscript"
+    doi: "10.1111/1365-2656.70387"
