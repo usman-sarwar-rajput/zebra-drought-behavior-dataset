@@ -1,5 +1,13 @@
 # Plains zebra: open drought behavior dataset and analysis
 
+## Updated research paper — 22 November 2026
+
+- [Full paper (PDF)](paper/research_v3/zebra_research_paper.pdf) and [editable Word paper](paper/research_v3/zebra_research_paper.docx).
+- [Graphs](paper/research_v3/figures/), [analysis results](paper/research_v3/analysis/), and [reproduction instructions](paper/research_v3/README.md).
+- [Simple summary PDF: elephant, zebra and wildebeest](paper/research_v3/Animal_Drought_Research_Simple_Summaries.pdf).
+
+This updated exploratory paper retains source attribution and licenses. Elephant calendar windows support five descriptive stages; zebra and wildebeest contain only three observed seasonal periods. These comparisons do not establish a causal drought effect or validate disaster prediction. Earlier release files remain below; use the updated paper and its accompanying analysis together.
+
 Species-specific secondary-analysis release, prepared 22 November 2026. This is a curated subset/derivative of existing open research, **not a newly collected dataset or a validated disaster-warning system**. Original researchers retain credit for field data. The manuscripts are exploratory and not peer reviewed.
 
 ## Dataset at a glance

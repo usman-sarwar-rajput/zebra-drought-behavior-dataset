@@ -1,0 +1,29 @@
+{
+  "name": "Plains zebra",
+  "animals": 6,
+  "source_rows": 396,
+  "kind": "daily",
+  "outcome": "daily GPS-derived distance",
+  "units": "km/day",
+  "source": "https://doi.org/10.5061/dryad.9cnp5hr2g",
+  "index_name": "Not supplied: observed CD/HD/HW seasons only",
+  "provenance": "Dryad files matched repository SHA-256. CD already denotes drought. Tmin and Tmax were identical and are excluded. Hourly table has hour-label issues and is excluded.",
+  "rows": 396,
+  "units_count": 6,
+  "first": "2019-07-01",
+  "last": "2020-02-29",
+  "stages": {
+    "candidate_events": 0,
+    "complete_events": 0,
+    "complete_units": 0,
+    "stages": {
+      "Baseline": 0,
+      "Near-before": 0,
+      "During": 0,
+      "Early-after": 0,
+      "Late-normal": 0
+    },
+    "reason": "No independent onset, baseline or late-normal labels. CD/HD/HW are not the requested five stages."
+  },
+  "slug": "zebra"
+}

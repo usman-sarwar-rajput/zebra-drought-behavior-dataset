@@ -1,0 +1,9 @@
+{
+  "features": [
+    "sin_month",
+    "cos_month"
+  ],
+  "target": "natural logarithm of daily GPS-derived distance",
+  "seed": 20261122,
+  "warning": "Contemporaneous prediction, not an early-warning or five-stage classifier. Full-data model; performance must come from held-out predictions."
+}

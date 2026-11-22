@@ -1,0 +1,19 @@
+[
+  {
+    "model": "primary",
+    "formula": "log(outcome) ~ C(unit)+C(phase)",
+    "coefficients": {
+      "Intercept": 1.9640014318339136,
+      "C(unit)[T.3326EQ33]": 0.1567164985842725,
+      "C(unit)[T.3330EQ63]": 0.2014963991673949,
+      "C(unit)[T.3331EQ62]": -0.05513609694076446,
+      "C(unit)[T.3332EQ64]": -0.24868166066467653,
+      "C(unit)[T.EQ38]": 0.5198945046978498,
+      "C(phase)[T.HD]": 0.3780833080786732,
+      "C(phase)[T.HW]": 0.6889064093571278
+    },
+    "n_rows": 396,
+    "rank": 8,
+    "warning": "Exploratory fit; use uncertainty and limitations in manuscript."
+  }
+]
